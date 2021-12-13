@@ -1,4 +1,4 @@
-# ONRAMP-010-WEEK-THREE
+
 
 Your task is to build out the project to the designs inside the `design` fILE and get it looking as close to the design as possible using HTML, CSS  and Javascript. 
 
