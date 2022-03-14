@@ -1,0 +1,95 @@
+body{
+    align-content:center;
+}
+.container{
+width:40%;
+height: 500px;
+margin: auto;
+padding-left: 40px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight:50px;
+border-left: 1px rgb(151, 147, 147) solid;
+
+}
+
+.container input{
+    height: 20px;
+    padding-top: 40px;
+    margin: auto;
+    margin-top: 30px;
+    width: 500px;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-color: rgb(155, 150, 150);
+    border-top: none;
+    border-left: none;
+    border-right:none;
+    border-bottom-width: 1px;
+}
+
+#date input{
+    font-size:medium;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 10px;    
+    width: 100px;
+    text-align: center;
+}
+
+.time input {
+    font-size: medium;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 15px;    
+    width: 100px;
+    text-align: center; 
+}
+.time select{
+    border:none;
+    border-bottom: 1px solid rgb(150, 140, 140);
+    width: 100px;
+}
+
+.count{
+    margin-top: 20px;
+    height: 40px;
+    padding-top: 30px;
+    padding-left: 30px;
+    align-items: center;
+    border-bottom: 1px rgb(150, 140, 140) solid;
+    width:470px;
+  }
+
+.count #increment{
+    border:none;
+    color:brown;
+    font-size: 30px;
+    background-color:white;
+}
+.count #decrement{
+    border:none;
+    color:brown;
+    font-size: 30px;
+    background-color:white;
+}
+
+
+.count b{
+    padding-left: 170px;
+    padding-right: 140px;
+}
+
+#submit{
+    font-size:20px;
+    height: 20px;
+    color:white;
+    background-color: black;
+    border:none;
+    width: 500px;
+    text-align:center;
+    margin-top: 20px;
+    padding: 20px;
+    padding-bottom: 40px;
+}
+
+#output{
+    color:red;
+}
